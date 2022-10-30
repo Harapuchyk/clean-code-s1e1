@@ -42,10 +42,12 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, h3 {
+li,
+h3 {
   list-style:none;
 }
-.all-input, .all-button{
+.all-input,
+.all-button{
   outline: none;
 }
 button {
